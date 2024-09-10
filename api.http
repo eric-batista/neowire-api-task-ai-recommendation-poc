@@ -1,0 +1,6 @@
+POST http://localhosT:8000/recommendations
+
+{
+  "complexity": 3,
+  "duration": 4
+}
